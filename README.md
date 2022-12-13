@@ -20,7 +20,3 @@ Appwrite Hacktoberfest 2022 | Appwrite | 2022-11-19T05:49:03.969Z (UTC) |
 ---
 
 Level 1 : https://github.com/Emilance/Javascript-Calculator-App/pull/31
-
-I don't know why i got Docker and AppWrite badge, maybe because participation.
-
-Will continue later, if event is available.
