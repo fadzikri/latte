@@ -1,6 +1,6 @@
 # Latte
 
-Holopin Collections.
+Holopin Collections 2022.
 
 ---
 
@@ -20,3 +20,7 @@ Appwrite Hacktoberfest 2022 | Appwrite | 2022-11-19T05:49:03.969Z (UTC) |
 ---
 
 Level 1 : https://github.com/Emilance/Javascript-Calculator-App/pull/31
+
+---
+
+07 January 2022 : Event Finished
